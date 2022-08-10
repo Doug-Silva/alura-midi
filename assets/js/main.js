@@ -12,7 +12,7 @@ function tocaSom (seletorAudio) {
 //referencia que não vai se modificar, vai ter seu valor constante
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
-//laço de repetição
+//laço de repetição for
 for (let contador = 0; contador < listaDeTeclas.length; contador++) {
 
     const tecla = listaDeTeclas[contador];
