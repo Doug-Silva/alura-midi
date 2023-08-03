@@ -9,7 +9,7 @@
   <p>Alura Midi é um instrumento musical de interface digital, onde a cada botão vamos reproduzir o som de um instrumento</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/alura-midi/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
+    <a href="https://github.com/Doug-Silva/alura-midi/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" 
     alt="License MIT"></a>
   </div><br>
 
